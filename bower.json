@@ -1,0 +1,7 @@
+{
+  "name": "python-type-hints",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~3.1.0"
+  }
+}

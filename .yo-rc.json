@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Python Type Hints",
+    "packageVersion": "0.0.0",
+    "revealTheme": "default",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
